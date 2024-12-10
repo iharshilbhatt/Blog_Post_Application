@@ -105,3 +105,16 @@
  
  ● Submission Handling: Once submitted, the form data can be sent to an email or stored
  in a database for future reference.
+
+ ### **6. Privacy Policy Component**
+ - The PrivacyPolicy component is crucial for informing users about how their data is handled.
+ This section typically includes:
+ 
+ ● DataCollection: Information on what data is collected from users, such as cookies,
+ personal information, and usage analytics.
+ 
+ ● DataUsage: Details on how the collected data is used, including marketing purposes
+ and user interaction.
+ 
+ ● UserRights: Information on users' rights concerning their data, including options for
+ data deletion and opting out of marketing communications.
