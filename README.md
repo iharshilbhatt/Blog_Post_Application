@@ -65,3 +65,18 @@ The Header component is pivotal for navigation, allowing users to access differe
  
  ● Featured Posts: An area showcasing selected posts to engage visitors and encourage
  them to explore further
+
+  ### **3. Post List Component**
+ 
+ The PostList component is designed to display all available blog posts. It allows users to:
+ 
+ ● ViewPosts: Each post is displayed with its title, excerpt, and a link to the full content.
+ 
+ ● Filter Posts: Users can filter the list of posts based on categories or tags, making it
+ easier to find relevant content.
+ 
+ ● LoadMoreFunctionality: The implementation of a "Load More" button allows users to
+ load additional posts without navigating away from the current page, enhancing the user
+ experience
+ 
+
