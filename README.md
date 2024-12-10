@@ -39,7 +39,7 @@
 
  ### **1. Header Component**
  
-The Header component is pivotal for navigation, allowing users to access different sections of the blog easily. It includes:
+- The Header component is pivotal for navigation, allowing users to access different sections of the blog easily. It includes:
  
 ● Links: Each link corresponds to a major section of the application, including:
 
@@ -54,7 +54,7 @@ The Header component is pivotal for navigation, allowing users to access differe
 
  ### **2. Home Component**
  
- The Home component serves as the initial landing page, welcoming users and providing a brief
+ - The Home component serves as the initial landing page, welcoming users and providing a brief
  overview of the blog's purpose and content. This section can feature:
  
  ● HeroSection: A prominent display that captures attention, possibly with an image and a
@@ -68,7 +68,7 @@ The Header component is pivotal for navigation, allowing users to access differe
 
   ### **3. Post List Component**
  
- The PostList component is designed to display all available blog posts. It allows users to:
+ - The PostList component is designed to display all available blog posts. It allows users to:
  
  ● ViewPosts: Each post is displayed with its title, excerpt, and a link to the full content.
  
@@ -78,5 +78,20 @@ The Header component is pivotal for navigation, allowing users to access differe
  ● LoadMoreFunctionality: The implementation of a "Load More" button allows users to
  load additional posts without navigating away from the current page, enhancing the user
  experience
+
+
+  ### **4. Post Component**
+ - The Post component is where dynamic routing comes into play. This component is responsible
+ for rendering the details of a specific blog post based on the postId retrieved from the URL.
+ Key features include:
  
+● DynamicData Fetching: Utilizing React Router, the application can dynamically fetch
+ post data from a data source (e.g., an API or local storage) based on the postId
+ parameter.
+
+● Content Display: The post's content, including title, body, images, and author
+ information, is rendered for users to read.
+
+● CommentsSection: While initially not included, a comments section could be added in
+ future iterations to foster user interaction and engagement
 
