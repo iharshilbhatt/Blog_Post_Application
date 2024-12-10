@@ -95,3 +95,13 @@
 ● CommentsSection: While initially not included, a comments section could be added in
  future iterations to foster user interaction and engagement
 
+### **5. Contact Component**
+ - The Contact component provides users with a way to reach out to the blog owner. This
+ component includes:
+ 
+ ● Contact Form: Users can fill out a form with fields for their name, email, and message.
+ This form can be validated to ensure all necessary information is provided before
+ submission.
+ 
+ ● Submission Handling: Once submitted, the form data can be sent to an email or stored
+ in a database for future reference.
