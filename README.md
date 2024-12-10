@@ -15,19 +15,38 @@ Blog Post Application with  Dynamic Routing: a blog post app with dynamic routin
  the architecture, features, and design principles that guide the application's development, as
  well as the considerations for its usability and performance
 
-**Application Architecture**
+ ## **Application Architecture**
  
-Overview
+ ### Overview
+ 
  The application is structured around several core components, each serving distinct purposes.
  
- These components include:
+ ### These components include:
  
- 1. Header: The navigational bar that includes links to various sections of the application.
- 2. Home: The landing page that introduces users to the blog and its purpose.
- 3. Post List: A component that displays a collection of blog posts, including filtering options
+ - 1. Header: The navigational bar that includes links to various sections of the application.
+ - 2. Home: The landing page that introduces users to the blog and its purpose.
+ - 3. Post List: A component that displays a collection of blog posts, including filtering options
                based on categories.
- 4. Post: The component responsible for rendering the details of an individual blog post
+ - 4. Post: The component responsible for rendering the details of an individual blog post
           dynamically based on the post ID.
- 5. Contact: A form that enables users to reach out to the blog owner or administrator.
- 6. Privacy Policy: A dedicated section outlining how user information is collected and
- handled
+ - 5. Contact: A form that enables users to reach out to the blog owner or administrator.
+ - 6. Privacy Policy: A dedicated section outlining how user information is collected and
+   handled
+
+
+ ## Component Breakdown
+
+ ## **1. Header Component**
+The Header component is pivotal for navigation, allowing users to access different sections of
+ the blog easily. It includes:
+ 
+● Links: Each link corresponds to a major section of the application, including:
+
+- ○ Home
+- ○ BlogPosts
+- ○ Contact
+- ○ Privacy Policy
+
+● Responsive Design: The header is designed to adapt to various screen sizes, providing
+ a user-friendly experience on both mobile and desktop devices. Tailwind CSS is utilized
+ to create a collapsible menu for mobile users
