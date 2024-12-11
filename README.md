@@ -142,3 +142,16 @@
  3. Data Fetching: Once the postId is retrieved, the component fetches the relevant data
  from a data source, ensuring that users receive the correct content based on their
  selection.
+
+### Responsive Design
+ - The application leverages Tailwind CSS to ensure a responsive and visually appealing design.
+   Key design principles include:
+ 
+ ● Mobile-First Approach: The design prioritizes mobile users, with elements resizing and
+ rearranging based on screen size.
+ 
+ ● Utility Classes: Tailwind CSS provides a wide array of utility classes that streamline
+ styling, allowing developers to build responsive layouts quickly.
+ 
+ ● Interactive Components: The navigation menu and buttons provide visual feedback,
+ enhancing interactivity and encouraging user engagement
