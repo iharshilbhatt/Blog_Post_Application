@@ -130,12 +130,15 @@
  access to content but also improves search engine optimization (SEO) by generating unique
  URLs for each post.
 
- Implementation Steps
+ ### Implementation Steps
+ 
  1. Route Configuration: The main routing is set up in the App component, which uses the
  BrowserRouter from React Router to define the various routes of the application.
-2. URLParameters: When a user clicks on a blog post link, the application navigates to
+
+ 2. URLParameters: When a user clicks on a blog post link, the application navigates to
  the route corresponding to that post's ID (e.g., /post/123). The Post component then
  retrieves the postId from the URL using useParams().
+ 
  3. Data Fetching: Once the postId is retrieved, the component fetches the relevant data
  from a data source, ensuring that users receive the correct content based on their
  selection.
