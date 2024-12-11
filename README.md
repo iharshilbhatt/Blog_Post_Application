@@ -122,8 +122,8 @@
 
  ##  **Key Features and Functionality**
 
- Dynamic Routing
- Dynamic routing is a cornerstone of the blog post application. Using React Router, the
+ ### Dynamic Routing
+ - Dynamic routing is a cornerstone of the blog post application. Using React Router, the
  application can render different components based on the URL path. The dynamic routing
  feature allows users to access individual blog posts by navigating to a specific URL structured
  as /post/:postId. This approach not only enhances user experience by providing direct
