@@ -192,12 +192,12 @@ blog can build credibility and encourage user engagement
  create a clear pathway for users to follow as they navigate through the content.
  
  ### **Consistent Styling**
- Consistency in styling contributes to a cohesive user experience. The application employs a
+ - Consistency in styling contributes to a cohesive user experience. The application employs a
  consistent color palette, typography, and button styles throughout. This approach enhances
  usability, as users can easily identify interactive elements and navigate the application with
  confidence.
  
- Interactive Elements
+ ### **Interactive Elements**
  User engagement is fostered through interactive elements such as buttons, links, and hover
  effects. By providing visual feedback, users feel more connected to the application, encouraging
  them to explore more content
