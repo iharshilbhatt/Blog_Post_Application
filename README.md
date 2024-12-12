@@ -149,6 +149,14 @@
  
  ● Mobile-First Approach: The design prioritizes mobile users, with elements resizing and
  rearranging based on screen size.
+
+ Blog Post Display and Filtering
+ The PostList component enhances user experience by allowing users to filter posts by
+ categories or tags. This functionality is critical for:
+ ● EaseofNavigation: Users can quickly find posts that interest them without scrolling
+ through an entire list.
+ ● UserEngagement: Filtering options encourage users to explore various topics and
+ categories within the blog
  
  ● Utility Classes: Tailwind CSS provides a wide array of utility classes that streamline
  styling, allowing developers to build responsive layouts quickly.
