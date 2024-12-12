@@ -198,7 +198,7 @@ blog can build credibility and encourage user engagement
  confidence.
  
  ### **Interactive Elements**
- User engagement is fostered through interactive elements such as buttons, links, and hover
+-  User engagement is fostered through interactive elements such as buttons, links, and hover
  effects. By providing visual feedback, users feel more connected to the application, encouraging
  them to explore more content
 
