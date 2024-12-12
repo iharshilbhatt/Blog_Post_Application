@@ -149,6 +149,12 @@
  
  ● Mobile-First Approach: The design prioritizes mobile users, with elements resizing and
  rearranging based on screen size.
+ 
+ ● Utility Classes: Tailwind CSS provides a wide array of utility classes that streamline
+ styling, allowing developers to build responsive layouts quickly.
+ 
+ ● Interactive Components: The navigation menu and buttons provide visual feedback,
+ enhancing interactivity and encouraging user engagement
 
 ### Blog Post Display and Filtering
 
@@ -161,11 +167,6 @@
 ● UserEngagement: Filtering options encourage users to explore various topics and
  categories within the blog
 
-● Utility Classes: Tailwind CSS provides a wide array of utility classes that streamline
- styling, allowing developers to build responsive layouts quickly.
-
-● Interactive Components: The navigation menu and buttons provide visual feedback,
- enhancing interactivity and encouraging user engagement
 
 ### Contact Form Functionality
  - The contact form provides a direct line of communication between users and the blog owner.
