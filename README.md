@@ -184,12 +184,14 @@ privacy policy informs users about data practices, which is especially important
 data privacy is a significant concern. By being transparent about data collection and usage, the
 blog can build credibility and encourage user engagement
 
- User Experience (UX)
- Visual Hierarchy
- Effective UX design incorporates a strong visual hierarchy, guiding users through the application
+## User Experience (UX)
+ 
+### **Visual Hierarchy**
+ - Effective UX design incorporates a strong visual hierarchy, guiding users through the application
  intuitively. Elements such as headings, subheadings, and spacing are used strategically to
  create a clear pathway for users to follow as they navigate through the content.
- Consistent Styling
+ 
+ ### **Consistent Styling**
  Consistency in styling contributes to a cohesive user experience. The application employs a
  consistent color palette, typography, and button styles throughout. This approach enhances
  usability, as users can easily identify interactive elements and navigate the application with
