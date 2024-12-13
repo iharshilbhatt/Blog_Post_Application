@@ -203,6 +203,6 @@ blog can build credibility and encourage user engagement
  effects. By providing visual feedback, users feel more connected to the application, encouraging
  them to explore more content
 
-for 
+
 
 
