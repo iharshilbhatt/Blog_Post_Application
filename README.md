@@ -219,3 +219,7 @@ blog can build credibility and encourage user engagement
  improves readability for all users.
 
 
+ Future Enhancements
+ While the current blog post application effectively meets user needs, several enhancements
+ could be implemented to further improve functionality and user experience
+
