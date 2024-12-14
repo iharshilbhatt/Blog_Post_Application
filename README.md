@@ -223,3 +223,14 @@ blog can build credibility and encourage user engagement
  While the current blog post application effectively meets user needs, several enhancements
  could be implemented to further improve functionality and user experience
 
+User Authentication
+Adding user authentication would enable users to create accounts, log in, and manage their
+ profiles. This feature could allow for personalized experiences, such as saving favorite posts or
+ leaving comments.
+
+
+ Commenting System
+ Implementing a commenting system would encourage user interaction and foster community
+ engagement. Users could share their thoughts on individual posts, leading to discussions and
+ increased content visibility
+
