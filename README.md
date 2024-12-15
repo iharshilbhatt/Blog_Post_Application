@@ -238,6 +238,6 @@ While the current blog post application effectively meets user needs, several en
 - Adding a search feature would allow users to find specific content quickly. A search bar could
  enable users to input keywords and filter results based on relevance
 
- Content Management System (CMS)
- Integrating a CMS would streamline content creation and management for the blog owner. A
+### Content Management System (CMS)
+- Integrating a CMS would streamline content creation and management for the blog owner. A
  CMSallows for easy updates, post scheduling, and content categorization
