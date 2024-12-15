@@ -234,6 +234,6 @@ While the current blog post application effectively meets user needs, several en
  engagement. Users could share their thoughts on individual posts, leading to discussions and
  increased content visibility
 
- Search Functionality
- Adding a search feature would allow users to find specific content quickly. A search bar could
+### Search Functionality
+- Adding a search feature would allow users to find specific content quickly. A search bar could
  enable users to input keywords and filter results based on relevance
