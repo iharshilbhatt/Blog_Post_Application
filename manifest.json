@@ -1,8 +1,0 @@
-{
-  "short_name": "My Blog",
-  "name": "My Awesome Blog",
-  "start_url": "/",
-  "display": "standalone",
-  "theme_color": "#1a202c", 
-  "background_color": "#ffffff"
-}
